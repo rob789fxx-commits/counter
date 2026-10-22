@@ -1,39 +1,28 @@
-# Counter
+Counter
 
 A simple counter application built with React.
 
-## Features
-
-- Increase the counter value.
-- Decrease the counter value.
-- Track the current count.
-
-## Technologies
-
-- React
-- JavaScript
-- HTML
-- SCSS
-
-## Getting Started
-
+Features
+Increase the counter value.
+Decrease the counter value.
+Track the current count.
+Technologies
+React
+JavaScript
+HTML
+SCSS
+Getting Started
 To run the project locally:
 
-1. Clone the repository.
-2. Install the dependencies:
+Clone the repository.
 
-   ```bash
-   npm install
-   ```
+Install the dependencies:
 
-3. Start the development server:
+npm install
+Start the development server:
 
-   ```bash
-   npm start
-   ```
+npm start
+Open the application in your browser at http://localhost:3000.
 
-4. Open the application in your browser at `http://localhost:3000`.
-
-## Purpose
-
+Purpose
 This project was created as a beginner practice project to learn React and work with interactive UI components.
