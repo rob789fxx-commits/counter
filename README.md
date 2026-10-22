@@ -1,21 +1,39 @@
-Currency Converter
+# Counter
 
-A currency converter built with React.
+A simple counter application built with React.
 
-Features
+## Features
 
-Convert amounts between currencies.
+- Increase the counter value.
+- Decrease the counter value.
+- Track the current count.
 
-Select currencies from the available list.
+## Technologies
 
-Retrieve exchange rates from the Frankfurter API.
+- React
+- JavaScript
+- HTML
+- SCSS
 
-Technologies
+## Getting Started
 
-React
+To run the project locally:
 
-JavaScript
+1. Clone the repository.
+2. Install the dependencies:
 
-SCSS
+   ```bash
+   npm install
+   ```
 
-Frankfurter API
+3. Start the development server:
+
+   ```bash
+   npm start
+   ```
+
+4. Open the application in your browser at `http://localhost:3000`.
+
+## Purpose
+
+This project was created as a beginner practice project to learn React and work with interactive UI components.
