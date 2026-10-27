@@ -15,10 +15,10 @@ function App() {
         <h2>Counter</h2>
         <h1>{count}</h1>
         <button onClick={onClickMinus} className="minus">
-          - Минус
+          - Minus
         </button>
         <button onClick={onClickPlus} className="plus">
-          Плюс +
+          Plus +
         </button>
       </div>
     </div>
